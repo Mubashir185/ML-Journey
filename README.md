@@ -7,4 +7,4 @@ A comprehensive roadmap tracking my core progression from foundational engineeri
 * **Python Fundamentals** - Variables, conditional evaluation control flows, and basic syntax structures. 
 * **File Handling** - Reading, writing, and parsing external content. 
 * **Object-Oriented Programming (OOP)** - Classes, inheritance, polymorphism, and abstraction models.
-* * **Implement BFS,DFS,UCS, and Measuring the cost.**
+* **Implement BFS,DFS,UCS, and Measuring the cost.**
